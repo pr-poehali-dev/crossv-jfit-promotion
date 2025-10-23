@@ -43,9 +43,7 @@ const Index = () => {
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold text-lg px-8">Получить доступ</Button>
-                <Button size="lg" variant="outline" className="border-2 border-primary text-foreground hover:bg-primary/10 font-semibold text-lg px-8">
-                  LEARN MORE
-                </Button>
+                <Button size="lg" variant="outline" className="border-2 border-primary text-foreground hover:bg-primary/10 font-semibold text-lg px-8">Узнать больше</Button>
               </div>
             </div>
             <div className="animate-scale-in">
